@@ -3,7 +3,7 @@ AVERAGE_HEIGHT_IN_INCHES = 67
 
 name = "Dave"
 age = 19
-favorite_food = ""
+favorite_food = "Spaghetti alla carbonara"
 
 ## Do not modify below this line!
 
